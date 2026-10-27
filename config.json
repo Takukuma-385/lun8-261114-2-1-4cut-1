@@ -1,0 +1,31 @@
+{
+  "discord_webhook_url": "",
+  "product_url": "https://www.kmonstar.com.tw/products/%E6%87%89%E5%8B%9F-261114-lun8-4th-mini-album-off-the-grid-special-21-%E5%9B%9B%E6%A0%BC%E7%85%A7%E6%B4%BB%E5%8B%95-in-taipei.json",
+  "variants": [
+    { "variant_id": 90259297, "custom_name": "UNIT 1 - 카엘 Chael + 유우마 Yuma" },
+    { "variant_id": 90259302, "custom_name": "UNIT 2 - 진수 Jin Su + 이안 Ian" },
+    { "variant_id": 90259303, "custom_name": "UNIT 3 - 준우 Jun Woo + 타쿠마 Takuma" }
+  ],
+  "schedules": [
+    {
+      "start": "2026-10-26 14:00",
+      "end": "2026-11-01 00:00",
+      "interval_minutes": 60
+    },
+    {
+      "start": "2026-11-01 00:00",
+      "end": "2026-11-01 21:00",
+      "interval_minutes": 30
+    },
+    {
+      "start": "2026-11-01 21:00",
+      "end": "2026-11-01 23:00",
+      "interval_minutes": 15
+    },
+    {
+      "start": "2026-11-01 23:00",
+      "end": "2026-11-02 00:10",
+      "interval_minutes": 5
+    }
+  ]
+}
